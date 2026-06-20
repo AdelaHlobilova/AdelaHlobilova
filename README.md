@@ -3,7 +3,7 @@
 I enjoy working with **Python** and exploring topics in **Machine Learning**, **optimization**, and **reliability analysis**. I like solving practical problems and learning by doing.
 
 ### 👩‍💻 About Me
-- 🔭 Currently working on: **Modernizing MultComPy** – a project I originally developed at the Czech Academy of Sciences, now upgrading it with modern Python practices and better architecture.
+- 🔭 Currently working on: **Modernizing [MultComPy](https://github.com/AdelaHlobilova/MultComPy)** – a project I originally developed at the Czech Academy of Sciences, now upgrading it with modern Python practices and better architecture.
 - 🌱 Currently learning more about: **Bayesian networks** and **pre-trained transformers** (because they are fascinating).
 - 💞️ Looking to collaborate on: **Interesting open-source Python projects**
 - ⚡ Fun fact: **I prefer structured logic over small talk.**
